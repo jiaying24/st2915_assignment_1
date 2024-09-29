@@ -1,1 +1,3 @@
-# st2915_assignment_1
+for i in range(1, 11):
+    print(i)
+    
